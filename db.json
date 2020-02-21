@@ -1,11 +1,5 @@
 {
-  "notes": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "title": "album title"
-    }
-  ],
+  "notes": [],
   "profile": {
     "name": "pbortnick"
   }
